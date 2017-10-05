@@ -1,0 +1,25 @@
+{
+  "name": "react-native-password-input",
+  "version": "1.0.0",
+  "description": "password input when pay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoz0816/react-native-password-input.git"
+  },
+  "keywords": [
+    "react-native-password",
+    "react-native-password-input",
+    "password",
+    "react-native"
+  ],
+  "author": "iPZero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoz0816/react-native-password-input/issues"
+  },
+  "homepage": "https://github.com/yaoz0816/react-native-password-input#readme"
+}
